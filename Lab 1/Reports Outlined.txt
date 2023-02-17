@@ -1,0 +1,14 @@
+PerformingReconnaissanceandProbingusingCommonTools
+
+Report 1:
+Arrival Time for the Wireshark ICMP traffic;
+filename of the attachment in the NetWitness Investigator Demo Collection;
+Fisheye Bubble chart from Zenmap scan;
+
+Report 2:
+Arrival Time for the Wireshark ICMP traffic;
+file details of the creditcards.txt attachment in NetWitness Investigator;
+successful TFTP file transfer;
+output from the Cisco command issued in PuTTY;
+Fisheye Bubble chart from Zenmap scan;
+results of the second Zenmap scan;
